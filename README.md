@@ -662,6 +662,7 @@ Fast, convenient, and error-free, the Snapdocs digital mortgage closing platform
  - [TaxJar MCP Server](https://mcp.pipedream.com/app/taxjar) - Sales Tax Compliance for Modern Commerce
  - [The Magic Drip MCP Server](https://mcp.pipedream.com/app/the_magic_drip) - Build multi-step funnels using LinkedIn to supercharge your outreach 🚀
  - [Ticket Source MCP Server](https://mcp.pipedream.com/app/ticket_source) - Sell Tickets Online | Free Event Ticketing with TicketSource.
+ - [TWZRD Agent Intel MCP Server](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel) - Solana-native agent trust scoring via x402 micropayments. Free on-chain preflight checks + paid signed V5 trust receipts settled in <1s. Remote server at intel.twzrd.xyz/mcp (Streamable-HTTP transport, no install needed).
  - [Uber Direct MCP Server](https://mcp.pipedream.com/app/uber_direct) - Offer on-demand delivery branded by you, delivered with Uber.
  - [USPS MCP Server](https://mcp.pipedream.com/app/usps) - United States Postal Service
  - [Utradea MCP Server](https://mcp.pipedream.com/app/utradea) - Stock and Crypto Investment Ideas | Social Sentiment Analytics | Automated Due Diligence and Trade Alerts | Investment Community
