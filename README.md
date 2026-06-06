@@ -2262,6 +2262,7 @@ ProWorkflow is an online project management software that enables you to keep ac
 
  - [Bitdefender GravityZone MCP Server](https://mcp.pipedream.com/app/bitdefender_gravityzone) - Cyber Security Platform
  - [HackerOne MCP Server](https://mcp.pipedream.com/app/hackerone) - Attack Resistance Platform combines the most creative human intelligence with the latest artificial intelligence to reduce threat exposure at all stages of the software development lifecycle.
+ - **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** — Solana-native trust scoring and x402 payment receipt MCP server for AI agents. Free preflight + paid signed V5 receipts.
 
 ### <a name="home-automation"></a>Smart Home Automation
 
